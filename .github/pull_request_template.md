@@ -1,7 +1,7 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
-<!--- Describe your changes in detail -->
+<!--- Describe your changes in high detail -->
 
 ## Related Issue
 <!--- This project only accepts pull requests related to open issues -->
